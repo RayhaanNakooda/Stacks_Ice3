@@ -1,0 +1,13 @@
+C:\Users\Rayhaan\source\repos\IntegerToBinaryStack\IntegerToBinaryStack\bin\Debug\netcoreapp3.1\IntegerToBinaryStack.exe
+C:\Users\Rayhaan\source\repos\IntegerToBinaryStack\IntegerToBinaryStack\bin\Debug\netcoreapp3.1\IntegerToBinaryStack.deps.json
+C:\Users\Rayhaan\source\repos\IntegerToBinaryStack\IntegerToBinaryStack\bin\Debug\netcoreapp3.1\IntegerToBinaryStack.runtimeconfig.json
+C:\Users\Rayhaan\source\repos\IntegerToBinaryStack\IntegerToBinaryStack\bin\Debug\netcoreapp3.1\IntegerToBinaryStack.runtimeconfig.dev.json
+C:\Users\Rayhaan\source\repos\IntegerToBinaryStack\IntegerToBinaryStack\bin\Debug\netcoreapp3.1\IntegerToBinaryStack.dll
+C:\Users\Rayhaan\source\repos\IntegerToBinaryStack\IntegerToBinaryStack\bin\Debug\netcoreapp3.1\IntegerToBinaryStack.pdb
+C:\Users\Rayhaan\source\repos\IntegerToBinaryStack\IntegerToBinaryStack\obj\Debug\netcoreapp3.1\IntegerToBinaryStack.csprojAssemblyReference.cache
+C:\Users\Rayhaan\source\repos\IntegerToBinaryStack\IntegerToBinaryStack\obj\Debug\netcoreapp3.1\IntegerToBinaryStack.AssemblyInfoInputs.cache
+C:\Users\Rayhaan\source\repos\IntegerToBinaryStack\IntegerToBinaryStack\obj\Debug\netcoreapp3.1\IntegerToBinaryStack.AssemblyInfo.cs
+C:\Users\Rayhaan\source\repos\IntegerToBinaryStack\IntegerToBinaryStack\obj\Debug\netcoreapp3.1\IntegerToBinaryStack.csproj.CoreCompileInputs.cache
+C:\Users\Rayhaan\source\repos\IntegerToBinaryStack\IntegerToBinaryStack\obj\Debug\netcoreapp3.1\IntegerToBinaryStack.dll
+C:\Users\Rayhaan\source\repos\IntegerToBinaryStack\IntegerToBinaryStack\obj\Debug\netcoreapp3.1\IntegerToBinaryStack.pdb
+C:\Users\Rayhaan\source\repos\IntegerToBinaryStack\IntegerToBinaryStack\obj\Debug\netcoreapp3.1\IntegerToBinaryStack.genruntimeconfig.cache
